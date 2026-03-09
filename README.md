@@ -7,7 +7,7 @@ your browser's renderer and super-simple to modify and incorporate into
 your own code.
 
 Save the fields as compact JSON that can be sent over
-packet and reconstituted into an ICS form. Download or print them as PDF,
+packet radio and reconstituted into an ICS form. Download or print them as PDF,
 CSV, JSON. Load JSON and it populates the form.
 
 This is the beginning of
