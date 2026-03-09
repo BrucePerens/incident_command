@@ -10,3 +10,9 @@ requires Flask, and should work on any platform that supports Python3.
 
 Install Flask, download the github repository. Run ics_forms.py, point your
 browser to port 5000 on localhost. Email sending is just simulated for now.
+
+# Work Needed!
+
+The field names were picked out of the PDF by AI and some need tweaking.
+
+This could automate the entire ICS work-flow, with a lot more code. Have at it!
